@@ -1,0 +1,15 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sauce-lab": "npx cypress run --spec \"./cypress/e2e/sauce-labs/assessment-saucelabs.cy.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.0",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}

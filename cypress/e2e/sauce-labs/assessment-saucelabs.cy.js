@@ -1,5 +1,5 @@
-describe('MY FIRST TEST SUITE', () => {
-    it('My first test case', () => {
+describe('sauce lab test cases from login to logout', () => {
+    it('login to logout test cases', () => {
 
       const username = 'standard_user';
     const password = 'secret_sauce';

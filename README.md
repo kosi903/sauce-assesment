@@ -1,6 +1,6 @@
-# Sauce Labs Sample Application - Purchase Flow Automation Test
+# Sauce Labs Application - Login, Logout, Purchase Flow Automation Test
 
-This repository contains an automated test script for the Sauce Labs Sample Application using Cypress. The test covers the full purchase flow from logging in to the application, selecting a product, checking out, and logging out.
+This repository contains an automated test script for the Sauce Labs Application using Cypress. The test covers the full flow from logging in to the application, selecting a product, checking out, and logging out.
 
 ## Prerequisites
 
